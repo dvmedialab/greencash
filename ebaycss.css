@@ -278,13 +278,13 @@ input {
 	text-align: justify;
 }
 
-#combinata{
+#combinata, #lista{
 	padding: 10px;
 	text-align: center;
-	list-style: circle;
-	}
+		}
+
 #list ul{
 	text-align: center;
-	list-style-type: disc;
+	list-style: disc;
 	line-height: 1.2;
 }
