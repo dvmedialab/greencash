@@ -278,7 +278,7 @@ input {
 	text-align: justify;
 }
 
-#combinata #lista{
+#combinata, #lista{
 	padding: 10px;
 	text-align: center;
 	line-height: 1.5;
