@@ -264,3 +264,7 @@ input {
 .card-text{
 	text-align: justify;
 }
+
+#titolo_gar{
+	text-align:center;
+	font-weight: bold;
