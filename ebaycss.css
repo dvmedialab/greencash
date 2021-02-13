@@ -283,8 +283,7 @@ input {
 	text-align: center;
 	list-style: circle;
 	}
-#combinata ul{
+#list ul{
 	text-align: center;
-	list-style: circle;
-	list-style-type: circle;
+	list-style-type: disc;
 }
