@@ -281,5 +281,7 @@ input {
 #combinata{
 	padding: 10px;
 	text-align: center;
-	list-style: circle;
+	}
+#combinata ul{
+	list-style-type: circle;
 }
