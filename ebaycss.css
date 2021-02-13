@@ -286,4 +286,5 @@ input {
 #list ul{
 	text-align: center;
 	list-style-type: disc;
+	line-height: 1.2;
 }
