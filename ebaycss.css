@@ -283,5 +283,6 @@ input {
 	text-align: center;
 	}
 #combinata ul{
+	list-style: circle;
 	list-style-type: circle;
 }
