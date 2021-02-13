@@ -83,6 +83,11 @@ table {
 	padding: 20px;
 }
 
+#titolo_gar{
+	text-align: center;
+	font-weight: bold;
+}
+
 #myTab li a.active{
 	background-color: #00c744;
 }
@@ -263,9 +268,4 @@ input {
 
 .card-text{
 	text-align: justify;
-}
-
-#titolo_gar{
-	text-align: center;
-	font-weight: bold;
 }
