@@ -89,6 +89,12 @@ table {
 	font-weight: bold;
 }
 
+#testo_gar{
+	text-align: justify;
+	line-height: 1.5;
+	padding: 30px 0 0 20px;
+}
+
 #myTab li a.active{
 	background-color: #00c744;
 }
